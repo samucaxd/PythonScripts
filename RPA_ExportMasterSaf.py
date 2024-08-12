@@ -11,7 +11,7 @@ driver.get("https://p.dfe.mastersaf.com.br/mvc/login")
 driver.maximize_window()
 
 user = "samuel.pereira"
-password = "Baumgart@1936##"
+password = ""
 
 def loginMasterSaf():
   try:
